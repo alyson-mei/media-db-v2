@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piano performances/Butterfly (BTS).md",
+                "file": "Cinema/Series/K-drama/True Beauty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Butterfly (BTS)"
+              "title": "True Beauty"
             }
           }
         ],
@@ -200,9 +200,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3b212b1c207fd3e",
+  "active": "bdb5403d6d2e9b91",
   "lastOpenFiles": [
-    "Cinema/Series/Untitled",
+    "Cinema/Series/K-drama/The Heirs.md",
+    "Cinema/Series/K-drama/True Beauty.md",
+    "Cinema/Series/K-drama/Boys Over Flowers.md",
+    "Piano performances/Butterfly (BTS).md",
+    "Cinema/Series/Untitled/Untitled",
+    "Cinema/Series/K-drama",
     "Cinema/Series",
     "Cinema",
     "Music",
@@ -231,12 +236,7 @@
     "Piano performances/Rondo Alla Turca (W. Mozart).md",
     "Piano performances/Rei I (Neon Genesis Evangelion OST).md",
     "Piano performances/Prelude in E Minor (F. Chopin).md",
-    "Piano performances/Misty (E. Garner).md",
-    "Piano performances/Last Letter (Shinsekai Yori OST).md",
-    "Piano performances/Inochi no Namae (Spirited Away OST).md",
     "Piano performances",
-    "Music/K-pop/Girl groups/2nd generation/Girls' Generation",
-    "Music/K-pop/Girl groups/2nd generation/Apink",
-    "Music/K-pop/Girl groups/2nd generation"
+    "Music/K-pop/Girl groups/2nd generation/Girls' Generation"
   ]
 }
