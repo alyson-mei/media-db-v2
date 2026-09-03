@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2019) Sunrise.md",
+                "file": "Music/K-pop/Girl groups/3rd generation/Dreamcatcher/Dreamcatcher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2019) Sunrise"
+              "title": "Dreamcatcher"
             }
           }
         ],
@@ -200,12 +200,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "bdb5403d6d2e9b91",
+  "active": "f3b212b1c207fd3e",
   "lastOpenFiles": [
-    "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2020) Crossroads.md",
-    "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2019) Sunrise.md",
-    "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2020) Apple.md",
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/GFRIEND.md",
+    "Music/K-pop/Girl groups/3rd generation/IZONE/Music videos/(2020) Secret Story of the Swan.md",
+    "Music/K-pop/Girl groups/3rd generation/IZONE/IZONE.md",
+    "Music/K-pop/Girl groups/3rd generation/IZONE/Music videos/(2020) Panorama.md",
+    "Music/K-pop/Girl groups/3rd generation/IZONE/Music videos",
+    "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2019) Sunrise.md",
+    "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2020) Crossroads.md",
+    "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2020) Apple.md",
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2020) MAGO.md",
     "Music/K-pop/Girl groups/3rd generation/Dreamcatcher/Dreamcatcher.md",
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos",
@@ -231,12 +235,8 @@
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2016) Whistle.md",
     "Music/K-pop/Girl groups/2nd generation/Girls' Generation/Girls' Generation.md",
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos",
-    "Music/K-pop/Girl groups/2nd generation/Apink/Music videos/(2020) 덤더럼 (Dumhdurum).md",
-    "Music/K-pop/Girl groups/2nd generation/Apink/Music videos/(2019) Eung Eung.md",
-    "Music/K-pop/Girl groups/2nd generation/Apink/Apink.md",
     "Music/K-pop/Girl groups/2nd generation/Apink/Music videos",
     "Music/K-pop/Girl groups/2nd generation/2NE1/Music videos",
-    "Music/K-pop/Girl groups/3rd generation/EXID",
-    "Music/K-pop/Girl groups/2nd generation/2NE1"
+    "Music/K-pop/Girl groups/3rd generation/EXID"
   ]
 }
