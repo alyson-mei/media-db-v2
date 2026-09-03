@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84c8eb779245b1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K-pop/Girl groups/4th generation/IVE/Music videos/08. Baddie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08. Baddie"
-            }
-          },
-          {
             "id": "bdb5403d6d2e9b91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/K-pop/Girl groups/3rd generation/CLC/Music videos/(2019) ME (美).md",
+                "file": "Music/K-pop/Girl groups/3rd generation/IZONE/IZONE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2019) ME (美)"
+              "title": "IZONE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,15 +185,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3b212b1c207fd3e",
+  "active": "bdb5403d6d2e9b91",
   "lastOpenFiles": [
+    "Music/K-pop/Girl groups/3rd generation/IZONE/IZONE.md",
+    "Music/K-pop/Girl groups/3rd generation/CLC/Music videos/(2019) ME (美).md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2024) Zombie.md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2021) Pirate.md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2021) First.md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2020) La Di Da.md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2020) Dun Dun.md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2019) Adios.md",
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/Music videos/(2019) Bon Bon Chocolat (봉봉쇼콜라).md",
     "Music/K-pop/Girl groups/4th generation/EVERGLOW/Untitled",
     "Music/K-pop/Girl groups/3rd generation/Dreamcatcher/Music videos/(2020) Scream.md",
     "Music/K-pop/Girl groups/3rd generation/Dreamcatcher/Dreamcatcher.md",
     "Music/K-pop/Girl groups/3rd generation/EXID/Music videos/(2014) Up&Down.md",
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/GFRIEND.md",
     "Music/K-pop/Girl groups/3rd generation/IZONE/Music videos/(2020) Secret Story of the Swan.md",
-    "Music/K-pop/Girl groups/3rd generation/IZONE/IZONE.md",
     "Music/K-pop/Girl groups/3rd generation/IZONE/Music videos/(2020) Panorama.md",
     "Music/K-pop/Girl groups/3rd generation/IZONE/Music videos",
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2019) Sunrise.md",
@@ -217,7 +210,6 @@
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos/(2020) MAGO.md",
     "Music/K-pop/Girl groups/3rd generation/GFRIEND/Music videos",
     "Music/K-pop/Girl groups/3rd generation/EXID/Music videos",
-    "Music/K-pop/Girl groups/3rd generation/CLC/Music videos/(2019) ME (美).md",
     "Music/K-pop/Girl groups/3rd generation/Dreamcatcher/Music videos",
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2026) GO.md",
     "Music/K-pop/Girl groups/3rd generation/CLC/Music videos",
@@ -228,15 +220,8 @@
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2020) Lovesick Girls.md",
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2020) Ice Cream.md",
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2020) How You Like That.md",
-    "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2019) Kill This Love.md",
-    "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2018) Ddu-Du Ddu-Du.md",
-    "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2017) As If It's Your Last.md",
-    "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2016) Stay.md",
-    "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2016) Playing with Fire.md",
-    "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos/(2016) Whistle.md",
     "Music/K-pop/Girl groups/3rd generation/BLACKPINK/Music videos",
     "Music/K-pop/Girl groups/2nd generation/Apink/Music videos",
-    "Music/K-pop/Girl groups/2nd generation/2NE1/Music videos",
-    "Music/K-pop/Girl groups/3rd generation/EXID"
+    "Music/K-pop/Girl groups/2nd generation/2NE1/Music videos"
   ]
 }
