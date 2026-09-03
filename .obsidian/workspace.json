@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/K-pop/Girl groups/4th generation/EVERGLOW/EVERGLOW.md",
+                "file": "Music/K-pop/Girl groups/4th generation/ITZY/ITZY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVERGLOW"
+              "title": "ITZY"
             }
           }
         ]
@@ -185,8 +185,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3b212b1c207fd3e",
+  "active": "bdb5403d6d2e9b91",
   "lastOpenFiles": [
+    "Music/K-pop/Girl groups/4th generation/EVERGLOW/EVERGLOW.md",
     "Music/K-pop/Girl groups/3rd generation/IZONE/IZONE.md",
     "Music/K-pop/Girl groups/5th generation/tripleS/Music videos",
     "Music/K-pop/Girl groups/5th generation/RESCENE/Music videos",
